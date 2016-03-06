@@ -1,12 +1,12 @@
 # Laborator 1
-----------------------------------------------------------------------
+
 Continutul:
 ----------------------------------------------------------------------
 1.Fisierul .rar in care se afla codul sursa si fisierele .exe ale
   aplicatiilor descrise in laboratorul 1;
 
 2.Raportul in format .pdf al laboratorului 1;
-----------------------------------------------------------------------
+
 Despre:
 ----------------------------------------------------------------------
 Au fost create 3 aplicatii cu ajutorul mediului Borland C++ Builder.
@@ -25,7 +25,7 @@ Au fost create 3 aplicatii cu ajutorul mediului Borland C++ Builder.
      PaintBox. Functiile utilizate sunt MoveTo(x,y) , LineTo(x,y) ,
      Rectangle(x,y,x1,x2) care sunt desenate intr-un interval de
      timp specificat de Timer.
-----------------------------------------------------------------------
+
 Note:
 ----------------------------------------------------------------------
 1. Forma si butoanele au fost create automat prin intermediul
@@ -44,5 +44,5 @@ Note:
    X constanta, insa pentru deplasarea ei verticala Y, este calculata
    o variabila random, care reprezinta numarul de pixeli cu care Y v-a fi
    deplasat.
--------------------------------------------------------------------------
+
    
