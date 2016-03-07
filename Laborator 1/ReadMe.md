@@ -2,10 +2,12 @@
 
 Continutul:
 ----------------------------------------------------------------------
-1.Fisierul .rar in care se afla codul sursa si fisierele .exe ale
+1.Fisierele in care se afla codul sursa si fisierele .exe ale
   aplicatiilor descrise in laboratorul 1;
 
 2.Raportul in format .pdf al laboratorului 1;
+
+3.Fisierul ReadMe.md cu informatie despre continutul lucrarii;
 
 Despre:
 ----------------------------------------------------------------------
