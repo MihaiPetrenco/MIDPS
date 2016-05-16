@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Virtual Music</string>
+    <string name="play">PLAY</string>
+    <string name="ambience">Ambience</string>
+    <string name="virtual">Virtual</string>
+    <string name="rain">Thunder Storm</string>
+    <string name="fire">Camp Fire</string>
+    <string name="forest">Tropic Forest</string>
+    <string name="water">Calm Water</string>
+</resources>
